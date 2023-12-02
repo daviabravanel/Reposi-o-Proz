@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lugares Favoritos</title>
+
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 20px;
+            padding: 0;
+            background-color: #f5f5f5;
+        }
+
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+
+        p {
+            color: #555;
+        }
+
+        div {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            margin: 20px 0;
+            padding: 20px;
+            border-radius: 8px;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin-bottom: 10px;
+        }
+
+        a {
+            color: #007BFF;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Meus Lugares Favoritos na Cidade</h1>
+
+    <p>Explore alguns dos meus lugares favoritos na cidade. Cada um deles tem algo especial a oferecer.</p>
+
+    <!-- Adicione imagens dos lugares favoritos -->
+    <div>
+        <h2>Lugar 1</h2>
+        <img src="caminho/para/imagem1.jpg" alt="Descrição da imagem 1">
+        <p>Uma breve descrição do primeiro lugar favorito.</p>
+    </div>
+
+    <div>
+        <h2>Lugar 2</h2>
+        <img src="caminho/para/imagem2.jpg" alt="Descrição da imagem 2">
+        <p>Uma breve descrição do segundo lugar favorito.</p>
+    </div>
+
+    <div>
+        <h2>Lugar 3</h2>
+        <img src="caminho/para/imagem3.jpg" alt="Descrição da imagem 3">
+        <p>Uma breve descrição do terceiro lugar favorito.</p>
+    </div>
+
+    <!-- Adicione um link para a nova página -->
+    <p>Quer saber mais sobre esses lugares? Confira a <a href="pagina_lugares_favoritos.html">página completa</a>.</p>
+
+</body>
+</html>
