@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lugares Favoritos - [sao paulo ]</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            body {
+            background-color: #f4f4f4;
+
+        header, footer {
+            .header {
+            background-color: #333; 
+             color: #fff; 
+            padding: 10px; 
+            text-align: center;
+
+        main {
+            padding: 20px;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Lugares Favoritos em [sao paulo]</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Meus Lugares Favoritos </h2>
+            <p>Descubra alguns dos meus lugares favoritos na cidade.</p>
+        </section>
+
+        <section>
+            <h2>Imagens</h2>
+            <img src="https://ibb.co/SNn2HRd" alt="Lugar Favorito 1">
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Lugares Favoritos - [Nome da Sua Cidade]</p>
+    </footer>
+
+</body>
+</html>
