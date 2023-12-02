@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Flexbox Playground</title>
+</head>
+<body>
+
+  <div class="flex-container">
+    <div class="flex-item">1</div>
+    <div class="flex-item">2</div>
+    <div class="flex-item">3</div>
+    <div class="flex-item">4</div>
+  </div>
+
+</body>
+</html>
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.flex-container {
+  display: flex;
+  border: 2px solid #333;
+  padding: 10px;
+}
+
+.flex-item {
+  flex: 1;
+  padding: 10px;
+  margin: 5px;
+  text-align: center;
+  background-color: #4caf50;
+  color: #fff;
+}
