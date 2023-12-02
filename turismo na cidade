@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parque da Cidade - Ibirapuera</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+        }
+
+        header {
+            background-color: #2c3e50;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            text-align: justify;
+        }
+
+        footer {
+            background-color: #34495e;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Parque da Cidade - Ibirapuera</h1>
+    </header>
+
+    <section>
+        <img src="https://ibb.co/SNn2HRd" alt="Parque da Cidade">
+        <h2>Descubra o Parque da Cidade</h2>
+        <p>O Ibirapuera em São Paulo é um oásis urbano, oferecendo uma escapada tranquila para moradores e visitantes. Localizado no coração da cidade, o parque oferece uma mistura encantadora de natureza e atividades recreativas.</p>
+
+        <h3>Atrações Principais</h3>
+        <ul>
+            <li>Trilhas arborizadas para caminhadas e corridas</li>
+            <li>Lagos serenos com patos e cisnes</li>
+            <li>Áreas de piquenique para reunir amigos e familiares</li>
+            <li>Parquinho infantil para as crianças se divertirem</li>
+        </ul>
+
+        <p>Venha aproveitar a beleza natural do Parque da Cidade. Seja para relaxar em meio à natureza, praticar esportes ou simplesmente desfrutar de um passeio tranquilo, o Parque da Cidade é o lugar perfeito para todos.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Parque da Cidade - Vale Encantado</p>
+    </footer>
+</body>
+
+</html>
